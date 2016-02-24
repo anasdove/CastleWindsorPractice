@@ -20,6 +20,5 @@ D:\Tutorial\CastleWindorPractice\CastleWindsorPractice\CastleWindsorPractice\Cas
 D:\Tutorial\CastleWindorPractice\CastleWindsorPractice\CastleWindsorPractice\CastleWindsorPractice\bin\System.Web.WebPages.xml
 D:\Tutorial\CastleWindorPractice\CastleWindsorPractice\CastleWindsorPractice\CastleWindsorPractice\bin\System.Web.WebPages.Deployment.xml
 D:\Tutorial\CastleWindorPractice\CastleWindsorPractice\CastleWindsorPractice\CastleWindsorPractice\bin\System.Web.WebPages.Razor.xml
-D:\Tutorial\CastleWindorPractice\CastleWindsorPractice\CastleWindsorPractice\CastleWindsorPractice\obj\Debug\CastleWindsorPractice.csprojResolveAssemblyReference.cache
 D:\Tutorial\CastleWindorPractice\CastleWindsorPractice\CastleWindsorPractice\CastleWindsorPractice\obj\Debug\CastleWindsorPractice.dll
 D:\Tutorial\CastleWindorPractice\CastleWindsorPractice\CastleWindsorPractice\CastleWindsorPractice\obj\Debug\CastleWindsorPractice.pdb
